@@ -10,8 +10,8 @@ A Tampermonkey userscript that enhances Google AI Studio.
 
 ## Installation
 
-1. Install **[Tampermonkey](https://www.tampermonkey.net/)**
-2. Install the script by clicking **[Google AI Studio Tweaks](https://raw.githubusercontent.com/Ezer015/google-ai-studio-tweaks/master/google-ai-studio-tweaks.user.js)**
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
+2. Install the script by clicking [Google AI Studio Tweaks](https://raw.githubusercontent.com/Ezer015/google-ai-studio-tweaks/master/google-ai-studio-tweaks.user.js)
 
    Or copy and paste this URL into your browser:
 
@@ -21,4 +21,4 @@ A Tampermonkey userscript that enhances Google AI Studio.
 
 ## Usage
 
-Just visit Google AI Studio and the script will automatically enhance the interface.
+Just visit [Google AI Studio](https://aistudio.google.com) and the script will automatically enhance the interface.
